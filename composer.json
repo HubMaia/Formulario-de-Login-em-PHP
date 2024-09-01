@@ -1,0 +1,10 @@
+{
+    "name": "matheus/maia-project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "require": {}
+}
